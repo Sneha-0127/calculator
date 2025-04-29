@@ -10,6 +10,10 @@ public class Main {
         System.out.println("Subtraction "+(a-b));
         System.out.println("Multiplication "+(a*b));
         System.out.println("Division "+(a/b));
-
+//master
+        System.out.println("Square root of a: "+Math.sqrt(a));
+        System.out.println("Square root of b: "+Math.sqrt(b));
+        System.out.println("Cube root of a: "+Math.cbrt(a));
+        System.out.println("Cube root of b: "+Math.cbrt(b));
     }
 }
